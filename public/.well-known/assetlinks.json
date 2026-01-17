@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.serotofyher",
+      "sha256_cert_fingerprints": [
+        "BE:C1:23:2C:FF:FA:0B:A5:71:09:21:81:81:E9:31:AC:37:5E:79:93:61:1F:CB:A5:D2:92:9E:AF:FD:B1:6B:1A"
+      ]
+    }
+  }
+]
