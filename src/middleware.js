@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.healthwithdhriti';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.serotofyher&hl=en_IN';
 const APP_STORE_URL =
-  'https://apps.apple.com/dm/app/health-with-dhriti/id6755182337';
+  'https://apps.apple.com/dm/app/serotofyher/id6757630048';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;
